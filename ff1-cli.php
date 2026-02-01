@@ -5,7 +5,7 @@
  * Format-Preserving Encryption Command Line Tool
  */
 
-require_once __DIR__ . '/FF1.php';
+require_once __DIR__ . '/ff1.php';
 
 /**
  * Display help information
